@@ -16,6 +16,7 @@ body
     box-shadow: 0px 2px 20px rgba(148, 38, 115, 0.133);
     color: white;
     font-weight: bold;
+    font-size: 15px;
     margin: 0;
     padding: 0.5em;
 }
@@ -23,12 +24,13 @@ body
 {
     width: 20px;
     vertical-align: middle;
+    padding: 1em;
 }
 #cabecera #tagline
 {
     padding: 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 1.5em;
 }
 #Container
 {
@@ -41,6 +43,14 @@ body
 #Container #h1
 {
     font-size: 14px;
+}
+#footer
+{
+    background: rgba(236, 143, 22, 0.932);
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding: 0.5em;
 }
 #post
 {
